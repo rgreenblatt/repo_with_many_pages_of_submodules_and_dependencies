@@ -1117,6 +1117,24 @@
 [submodule "379"]
 	path = 379
 	url = https://github.com/rgreenblatt/repo_with_many_submodules
-[submodule "380"]
-	path = 380
+[submodule "107"]
+	path = 107
+	url = https://github.com/rgreenblatt/repo_with_many_submodules
+[submodule "108"]
+	path = 108
+	url = https://github.com/rgreenblatt/repo_with_many_submodules
+[submodule "109"]
+	path = 109
+	url = https://github.com/rgreenblatt/repo_with_many_submodules
+[submodule "110"]
+	path = 110
+	url = https://github.com/rgreenblatt/repo_with_many_submodules
+[submodule "172"]
+	path = 172
+	url = https://github.com/rgreenblatt/repo_with_many_submodules
+[submodule "173"]
+	path = 173
+	url = https://github.com/rgreenblatt/repo_with_many_submodules
+[submodule "174"]
+	path = 174
 	url = https://github.com/rgreenblatt/repo_with_many_submodules
