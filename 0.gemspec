@@ -1,0 +1,21 @@
+# scraped from various places: DO NOT TRUST THESE PACKAGES!
+Gem::Specification.new do |s|
+  s.add_dependency 'actioncable'
+  s.add_dependency 'actionmailbox'
+  s.add_dependency 'actionmailer'
+  s.add_dependency 'actionpack'
+  s.add_dependency 'actiontext'
+  s.add_dependency 'actionview'
+  s.add_dependency 'activejob'
+  s.add_dependency 'activemodel'
+  s.add_dependency 'activemodel-serializers-xml'
+  s.add_dependency 'activerecord'
+  s.add_dependency 'activestorage'
+  s.add_dependency 'activesupport'
+  s.add_dependency 'acts_as_commentable'
+  s.add_dependency 'acts_as_list'
+  s.add_dependency 'acts-as-taggable-on'
+  s.add_dependency 'appraisal'
+  s.add_dependency 'ast'
+  s.add_dependency 'aws-sdk-ec2'
+end
